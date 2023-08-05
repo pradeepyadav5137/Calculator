@@ -21,15 +21,20 @@ button {
     font-size: 20px;
     padding: 5px 15px;
     margin: 5px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px white;
 }
 
 
 #placeholder {
     height: 25px;
     width: 220px;
-    border: 1px solid tan;
+    border: 1px solid white;
     margin-top: 10px;
     border-radius: 10px;
     color: white;
     padding: 20px;
+    
+    box-shadow: 1px 1px 1px white;
+
 }
